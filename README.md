@@ -1,4 +1,4 @@
-# Machine-Learning-Project1
+# House Price Prediction using Machine Learning 
 # Banglore House Price Prediction
 This project is a regression project. I have tried to predict the house prizes in Banglore using a dataset from kaggle.
 The steps involved in the project were:
